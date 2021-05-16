@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BookXmlRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Book ID="250022">
+    <Name>The Red Mist</Name>
+    <TextId>250022</TextId>
+    <EquipEffect>
+      <EmotionLevel>0</EmotionLevel>
+      <BaseLevel>0</BaseLevel>
+      <HP>120</HP>
+      <DeadLine>0</DeadLine>
+      <Break>67</Break>			
+      <SpeedMin>2</SpeedMin>
+      <Speed>8</Speed>
+      <SResist>Endure</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Endure</SBResist>
+      <PBResist>Normal</PBResist>
+      <HBResist>Normal</HBResist>
+      <StartPlayPoint>4</StartPlayPoint>
+      <MaxPlayPoint>4</MaxPlayPoint>
+      <Passive>250122</Passive>
+      <Passive>170002</Passive>
+	  <Passive>694029</Passive>
+      <Passive>250322</Passive>
+      <Passive>10008</Passive>
+      <Passive>180104</Passive>
+	  <OnlyCard>607003</OnlyCard>
+      <OnlyCard>607004</OnlyCard>
+      <OnlyCard>607005</OnlyCard>
+      <OnlyCard>607006</OnlyCard>
+      <OnlyCard>607007</OnlyCard>
+	</EquipEffect>
+	<RangeType>Hybrid</RangeType>
+	<BookIcon>TheRedMist</BookIcon>
+	<Rarity>Unique</Rarity>
+	<CharacterSkin>Kali</CharacterSkin>
+  </Book>
+</BookXmlRoot>
