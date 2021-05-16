@@ -7,7 +7,7 @@
             owner.allyCardDetail.DrawCards(4);
         }
 
-        public override void OnAfterRollSpeedDice()
+        public override void OnDrawCard()
         {
             CheckDeckForRMPages();
         }
