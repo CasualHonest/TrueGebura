@@ -9,7 +9,7 @@
       <HP>120</HP>
       <DeadLine>0</DeadLine>
       <Break>67</Break>			
-      <SpeedMin>2</SpeedMin>
+      <SpeedMin>1</SpeedMin>
       <Speed>8</Speed>
       <SResist>Endure</SResist>
       <PResist>Normal</PResist>
