@@ -11,12 +11,12 @@
       <Break>67</Break>			
       <SpeedMin>1</SpeedMin>
       <Speed>8</Speed>
-      <SResist>Endure</SResist>
+      <SResist>Normal</SResist>
       <PResist>Normal</PResist>
-      <HResist>Normal</HResist>
-      <SBResist>Endure</SBResist>
+      <HResist>Endure</HResist>
+      <SBResist>Normal</SBResist>
       <PBResist>Normal</PBResist>
-      <HBResist>Normal</HBResist>
+      <HBResist>Endure</HBResist>
       <StartPlayPoint>4</StartPlayPoint>
       <MaxPlayPoint>4</MaxPlayPoint>
       <Passive>250122</Passive>

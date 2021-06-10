@@ -2,6 +2,6 @@
 <PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <PassiveDesc ID="694029">
   <Name>The Red Mist</Name>
-  <Desc>Draw 4 cards at the start of the Act. If "Upstanding Slash", "Level Slash", and/or "Spear" is in combat bookshelf and it's cost is 2 or higher, reduce it's cost by 1</Desc>
+  <Desc>Draw 4 cards at the start of the Act. If "Upstanding Slash", "Level Slash", and/or "Spear" is in combat bookshelf and it's cost is 2 or higher, reduce it's cost by 1. Endured Resistance types will change every Scene.</Desc>
  </PassiveDesc>
 </PassiveDescRoot>
