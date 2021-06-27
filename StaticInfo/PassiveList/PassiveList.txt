@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PassiveXmlRoot>
-  <Passive ID="250122">
-    <Cost>9</Cost>
+    <Passive ID="694029">
+    <Cost>6</Cost>
     <Rarity>Unique</Rarity>
     <CanGivePassive>false</CanGivePassive>
   </Passive>
@@ -18,10 +18,6 @@
     <Rarity>Unique</Rarity>
   </Passive>
   <Passive ID="180104">
-    <Cost>6</Cost>
-    <Rarity>Unique</Rarity>
-  </Passive>
-  <Passive ID="694029">
     <Cost>6</Cost>
     <Rarity>Unique</Rarity>
   </Passive>

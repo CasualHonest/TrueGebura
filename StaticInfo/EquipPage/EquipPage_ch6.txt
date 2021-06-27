@@ -19,19 +19,18 @@
       <HBResist>Endure</HBResist>
       <StartPlayPoint>4</StartPlayPoint>
       <MaxPlayPoint>4</MaxPlayPoint>
-      <Passive>250122</Passive>
+      <Passive>694029</Passive>
       <Passive>250222</Passive>
-	  <Passive>694029</Passive>
       <Passive>250322</Passive>
       <Passive>10008</Passive>
       <Passive>180104</Passive>
-	  <OnlyCard>607003</OnlyCard>
+      <OnlyCard>607003</OnlyCard>
       <OnlyCard>607004</OnlyCard>
       <OnlyCard>607005</OnlyCard>
       <OnlyCard>607006</OnlyCard>
       <OnlyCard>607007</OnlyCard>
 	</EquipEffect>
-	<RangeType>Hybrid</RangeType>
+        <Chapter>6</Chapter>
 	<BookIcon>TheRedMist</BookIcon>
 	<Rarity>Unique</Rarity>
 	<CharacterSkin>Kali</CharacterSkin>
